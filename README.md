@@ -27,6 +27,11 @@
 * Talking to individual resources
 
 ## Level 2 - HTTP Verbs
+* Think at HTTP Verbs as at CRUD operations
+  * Create - POST
+  * Read   - GET
+  * Update - PUT
+  * Delete - DELETE
 
 ## Level 3 - Hypermedia Controls
 
